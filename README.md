@@ -15,8 +15,7 @@ Includes data structures, graph theory, dynamic programming, math, geometry, and
 ---
 
 ### 🏁 **Competitions**
-Solutions and notes from various programming contests:
-**Olympiad in Informatics (OI)**, **CodeQuest**, **CodeForces*, **MistrzProgramowania**, **Solve4**
+Solutions and notes from various programming contests: **Olympiad in Informatics (OI)**, **CodeQuest**, **CodeForces**, **MistrzProgramowania**, **Solve4**
 **Level:** 🔴 Advanced  
 **Purpose:** Real contest problems with efficient, contest-tested solutions.
 
